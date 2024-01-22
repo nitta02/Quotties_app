@@ -21,5 +21,8 @@ This Project basically made for different Types of Quotes.
 - 📫 How to reach me **nittaranjantanmoy23@gmail.com**
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
 
+
+![Screenshot_1705932858](https://github.com/nitta02/Quotties_app/assets/110607962/fadb264d-58e8-4d1a-a27d-35992dced2bb)
+![Screenshot_1705932872](https://github.com/nitta02/Quotties_app/assets/110607962/31dfb9ad-9341-459c-b0e5-a809a267b6ae)
+![Screenshot_1705932863](https://github.com/nitta02/Quotties_app/assets/110607962/6ffd211a-38b7-4ec4-92ef-5d45b2ebafe1)
